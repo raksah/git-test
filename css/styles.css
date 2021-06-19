@@ -33,3 +33,22 @@ site.footer {
 .navbar {
     background-color: #901CAD;
 }
+.tab-content {
+    border: 1px solid #DDD;
+    border-top: none;
+    padding: 10px;
+    background-color: rgb(229, 226, 226);
+}
+.carousel-caption {
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+.carousel {
+    border: solid #5637DD;
+}
+.nav-tabs {
+    background-color: rgb(150, 79, 160)
+}
+thead {
+    background-color: rgb(150, 79, 160)
+}
