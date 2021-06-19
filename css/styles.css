@@ -37,6 +37,10 @@ header h2 {
     border: 1px solid #DDD;
     border-top: none;
     padding: 10px;
+<<<<<<< HEAD
+=======
+    background-color: rgb(229, 226, 226);
+>>>>>>> 691a5a545070e5002fa8437df2744a8fcd4e836f
 }
 .carousel-caption {
     background-color: rgba(0, 0, 0, 0.5);
@@ -45,3 +49,12 @@ header h2 {
 .carousel {
     border: solid #5637DD;
 }
+<<<<<<< HEAD
+=======
+.nav-tabs {
+    background-color: rgb(150, 79, 160)
+}
+thead {
+    background-color: rgb(150, 79, 160)
+}
+>>>>>>> 691a5a545070e5002fa8437df2744a8fcd4e836f
